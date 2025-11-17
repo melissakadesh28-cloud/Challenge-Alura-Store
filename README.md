@@ -4,7 +4,7 @@ El objetivo de este desafío es ayudar al señor Juan a decidir qué tienda debe
    Explica el propósito del análisis:  
    `markdown
 
-📌 Introducción
+ Introducción
    Este proyecto evalúa el desempeño de las cuatro tiendas del Sr. Juan considerando:
    - Ingresos totales (Precio)
    - Categorías más y menos vendidas (Categoría del Producto)
@@ -25,3 +25,5 @@ Visualizaciones
 ✅ Conclusión
    Tras comparar la Tienda 1 (más rentable) y la Tienda 4 (menos rentable), se recomienda al Sr. Juan vender la Tienda 4.  
    Esto permitirá concentrar recursos en la Tienda 1, que asegura mayores ingresos, sostenibilidad y satisfacción de clientes.
+
+   Autor: Melissa Rodríguez
